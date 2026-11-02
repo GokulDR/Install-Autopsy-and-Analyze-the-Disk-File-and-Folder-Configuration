@@ -52,6 +52,11 @@ Export or recover files if required for the investigation.
 
 ## OUTPUT:
 File and Folder Configuration Analysis Results
+<img width="1906" height="1022" alt="image" src="https://github.com/user-attachments/assets/a51e208f-ad0b-471e-bc2b-1210abc07fce" /><br>
+
+<img width="1916" height="1195" alt="image" src="https://github.com/user-attachments/assets/eb1de48e-62a0-4203-9d7e-464725e94eb0" />
+
+
 
 ## RESULT:
 Autopsy was installed successfully and used to analyze disk, file, and folder configuration for forensic investigation.
